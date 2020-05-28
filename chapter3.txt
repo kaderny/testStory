@@ -1,4 +1,1 @@
-this is an error ? 
-thats error
-
-git remote set-url origin https://github.com/kaderny/testStory.git
+this is master
